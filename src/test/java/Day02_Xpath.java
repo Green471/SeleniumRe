@@ -22,6 +22,7 @@ public class Day02_Xpath {
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
+
     }
 
     @Test
